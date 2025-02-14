@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Lab250214_School.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.sID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Chinese)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.English)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Math)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.sID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Chinese)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.English)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Math)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { SID = item.sID }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

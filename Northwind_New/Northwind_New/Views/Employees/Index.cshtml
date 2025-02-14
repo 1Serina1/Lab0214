@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>北風</h1>
+@for (int k = 0; k < ViewBag.Demo.Count; k++)
+{
+	@* //有標籤 *@
+	@* <p>@ViewBag.Demo[k].FirstName</p> *@
+	//不要標籤
+	@:員工姓名： ＠ViewBag.Demo[k].FirstName
+	@:員工電話： ＠ViewBag.Demo[k].HomePhone
+	<br />
+}

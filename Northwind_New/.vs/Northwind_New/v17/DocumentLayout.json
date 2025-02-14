@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Northwind_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|c:\\users\\user\\source\\repos\\northwind_new\\northwind_new\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142FD6F-F4BC-4C6E-92FE-0108F28D60D2}|Northwind_New\\Northwind_New.csproj|solutionrelative:northwind_new\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Northwind_New\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Northwind_New\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T07:27:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Northwind_New\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Northwind_New\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:27:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind_New\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Program.cs",
+              "RelativeToolTip": "Northwind_New\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:24:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Northwind_New\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Northwind_New\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:23:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Northwind_New\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\Models\\Employee.cs",
+              "RelativeToolTip": "Northwind_New\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:22:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\appsettings.json",
+              "RelativeDocumentMoniker": "Northwind_New\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Northwind_New\\Northwind_New\\appsettings.json",
+              "RelativeToolTip": "Northwind_New\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T07:20:38.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
