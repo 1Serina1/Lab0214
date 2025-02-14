@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Lab250214_Northwind\Lab250214_Northwind\obj\Debug\net8.0\Lab250214_Northwind.RazorAssemblyInfo.cs
